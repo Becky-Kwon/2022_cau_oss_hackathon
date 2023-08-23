@@ -1,5 +1,10 @@
 ## 2022_cau_oss_hackathon
 
+![](https://github.com/Becky-Kwon/2022_cau_oss_hackathon/blob/main/%EB%8B%A4%EB%B9%88%EC%B9%98%20%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20SW%C2%B7AI%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%ED%95%B4%EC%BB%A4%ED%86%A4_9%ED%8C%80_%ED%95%B4%EB%A6%AC%EB%B2%A0%ED%82%A4.jpg?raw=true)
+
+
+
+
 ### 프로젝트 진행 전 준비
 
 * 본 GitHub repository를 개인 GitHub 계정으로 fork
